@@ -6,5 +6,8 @@ Copy and add gui character for custom gui:
 
 Used characters
 U+E000  : Negative space
-U+E001  : Pouch gui
-U+0002  : Settings gui
+
+U+E001  : gui Pouch
+U+0002  : gui Settings
+
+U+E100  : chattag Dev

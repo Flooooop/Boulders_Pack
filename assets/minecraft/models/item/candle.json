@@ -1,0 +1,11 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/candle"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/empty"},
+        {"predicate":{"custom_model_data":2},"model":"custom/gui/pouch/button_left"},
+        {"predicate":{"custom_model_data":3},"model":"custom/gui/pouch/button_right"}
+    ]
+}
