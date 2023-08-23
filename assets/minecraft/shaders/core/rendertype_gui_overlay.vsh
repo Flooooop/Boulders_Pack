@@ -1,3 +1,4 @@
+
 #version 440 core
 
 #define HOVER_Z 0
@@ -16,7 +17,7 @@ void main() {
     vec4 position = gl_Position;
     dis = 0.0;
     if (position.z == HOVER_Z) {
-        dis = 2.0;
+        dis = 0.0;
     }
     vertexColor = Color;
 }
