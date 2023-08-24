@@ -12,7 +12,7 @@ void main() {
     vec4 color = vertexColor;
     if (color.a == 0.0) {discard;}
     if (modify == 1.0) {
-        //color = vec4(1,1,1,1);
+        //color = vec4(0,0,0,0);
     }
     fragColor = color * ColorModulator;
 }
