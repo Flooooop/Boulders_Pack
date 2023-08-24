@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/decorations/pot_bunch"
+    },
+	"attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/decorations/plants/shroom_bunch"
+    },
+	"attached=true,disarmed=true,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/decorations/pouches/pouch_sandshroom"
+    },
+	"attached=false,disarmed=false,east=true,north=false,powered=false,south=false,west=false": {
+      "model": "custom/decorations/pouches/pouch_shineshroom"
+    }
+  }
+}

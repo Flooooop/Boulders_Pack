@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/gui/pouch/button",
+		"particle": "custom/gui/pouch/button"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 0],
+			"to": [16, 30, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 21, 0]
+		}
+	}
+}
