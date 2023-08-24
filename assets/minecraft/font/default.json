@@ -1,7 +1,7 @@
 {
     "providers": [
         {"type":"bitmap", "file":"custom/gui/pixel.png", "ascent":-2000, "height":-3, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/pouch/main.png", "ascent":14, "height":222, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/pouch/main.png", "ascent":13, "height":221, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":167, "chars":[""]}
 
     ]
