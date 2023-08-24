@@ -6,6 +6,8 @@
     "overrides":[
         {"predicate":{"custom_model_data":1},"model":"custom/empty"},
         {"predicate":{"custom_model_data":2},"model":"custom/gui/pouch/button_left"},
-        {"predicate":{"custom_model_data":3},"model":"custom/gui/pouch/button_right"}
+        {"predicate":{"custom_model_data":3},"model":"custom/gui/pouch/button_right"},
+        {"predicate":{"custom_model_data":4},"model":"custom/gui/pouch/button_left_bottom"},
+        {"predicate":{"custom_model_data":5},"model":"custom/gui/pouch/button_right_bottom"}
     ]
 }
