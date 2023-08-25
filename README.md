@@ -11,8 +11,13 @@ Copy and add gui character for custom gui:
 ### Used Characters
 > #### General Utility
 > - U+E000  : Negative space
+> - U+E00A  : Negative space x100
 > #### Gui's
 > - U+E001  : Pouch
 > - U+0002  : Settings
 > #### Chat Tags
 > - U+E100  : Dev *(not in use right now)*
+
+/dfgive minecraft:book{CustomModelData:5000,PublicBukkitValues:{"hypercube:varitem":'{"id":"txt","data":{"name":"do @message to talk."}}'},display:{Name:'{"italic":false,"text":"Hehe"}'}} 1
+
+

@@ -1,4 +1,4 @@
-#version 440 core
+#version 150
 
 #define TOOLTIP_Z -0.04000008
 

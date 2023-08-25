@@ -1,4 +1,4 @@
-#version 440 core
+#version 150
 
 in vec4 vertexColor;
 in float modify;
@@ -11,7 +11,7 @@ void main() {
 
     vec4 color = vertexColor;
     if (color.a == 0.0) {discard;}
-    if (modify == 1.0) {
+    if (modify > 0.5) {
         //color = vec4(0,0,0,0);
     }
     fragColor = color * ColorModulator;

@@ -1,9 +1,9 @@
-
-#version 440 core
+#version 150
 
 #define HOVER_Z 0
 #define BOUND_Y_UPPER 0.8
 #define BOUND_Y_LOWER -0.8
+
 in vec3 Position;
 in vec4 Color;
 
