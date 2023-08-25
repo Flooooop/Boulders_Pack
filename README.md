@@ -11,6 +11,7 @@ Copy and add gui character for custom gui:
 ### Used Characters
 > #### General Utility
 > - U+E000  : Negative space
+> - U+E00A  : Negative space x100
 > #### Gui's
 > - U+E001  : Pouch
 > - U+0002  : Settings
