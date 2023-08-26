@@ -1,12 +1,18 @@
 {
     "providers": [
         {"type":"bitmap", "file":"custom/gui/pixel.png", "ascent":-2000, "height":-3, "chars":[""]},
+
         {"type":"bitmap", "file":"custom/gui/pixel.png", "ascent":-200000, "height":-300, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/pouch/main.png", "ascent":13, "height":221, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":167, "chars":[""]},
-		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-7, "height":30, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-7, "height":30, "chars":[""]},
 		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-43, "height":30, "chars":[""]},
-		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-79, "height":30, "chars":[""]}
+		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-79, "height":30, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":167, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":7, "chars":[""]},
+        
+        {"type":"bitmap", "file":"custom/gui/emote/nerd.png", "ascent":7, "height":7, "chars":[""]}
 
     ]
 }
