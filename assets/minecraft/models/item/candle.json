@@ -7,6 +7,7 @@
         {"predicate":{"custom_model_data":1},"model":"custom/empty"},
 		{"predicate":{"custom_model_data":2},"model":"custom/items/pouch"},
 		{"predicate":{"custom_model_data":3},"model":"custom/items/plants/explodrape"},
-		{"predicate":{"custom_model_data":4},"model":"custom/items/plants/vigorangium"}
+		{"predicate":{"custom_model_data":4},"model":"custom/items/plants/vigorangium"},
+        {"predicate":{"custom_model_data":5},"model":"custom/items/blueprint"}
     ]
 }
