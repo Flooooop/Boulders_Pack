@@ -12,7 +12,23 @@
 
         {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":7, "chars":[""]},
         
-        {"type":"bitmap", "file":"custom/gui/emote/nerd.png", "ascent":7, "height":7, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/emote/nerd.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/happy.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/sad.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/baby.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/very_happy.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/cry_laughing.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/no_mouth.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/upsidedown.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/eyebrow.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/skull.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/alien.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/warning.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/warning_red.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/star.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/heart.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/l.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/f.png", "ascent":7, "height":7, "chars":[""]}
 
     ]
 }
