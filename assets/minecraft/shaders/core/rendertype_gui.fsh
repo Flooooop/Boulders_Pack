@@ -12,7 +12,7 @@ void main() {
     vec4 color = vertexColor;
     if (color.a == 0.0) {discard;}
 
-    if (modify > 1.5) {
+    if (modify == 2.0) {
         // code snippet from https://modrinth.com/resourcepack/bettertooltip/versions
         /* set tooltip background rgba (vec4) */
         if ( color.r == 16/255.0 && color.g == 0/255.0 && color.b == 16/255.0 ) {
@@ -24,6 +24,6 @@ void main() {
             //color = vec4(0,0,0,0);
             } 
     }
-    else if (modify > 0.5) {discard;} 
+    else if (modify == 1.0) {discard;} 
     fragColor = color * ColorModulator;
 }
