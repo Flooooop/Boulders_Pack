@@ -48,3 +48,4 @@ Copy and add gui character for custom gui:
 > - U+E212  : Cat
 > - U+E213  : E
 > - U+E214  : W
+> - U+E215  : Cat Angry
