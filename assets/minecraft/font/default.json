@@ -11,6 +11,7 @@
         {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":167, "chars":[""]},
 
         {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/builder.png", "ascent":7, "height":7, "chars":[""]},
         
         {"type":"bitmap", "file":"custom/gui/emote/nerd.png", "ascent":7, "height":7, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/happy.png", "ascent":7, "height":7, "chars":[""]},
@@ -29,7 +30,10 @@
         {"type":"bitmap", "file":"custom/gui/emote/heart.png", "ascent":7, "height":7, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/l.png", "ascent":7, "height":7, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/f.png", "ascent":7, "height":7, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/emote/sunglasses.png", "ascent":7, "height":7, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/emote/sunglasses.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/cat.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/e.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/w.png", "ascent":7, "height":7, "chars":[""]}
 
     ]
 }

@@ -24,7 +24,7 @@ Copy and add gui character for custom gui:
 >
 > #### Chat Tags
 > - U+E100  : Dev
->
+> - U+E101  : Builder
 >
 > #### Emotes
 > - U+E200  : Nerd
@@ -45,3 +45,6 @@ Copy and add gui character for custom gui:
 > - U+E20F  : L
 > - U+E210  : F
 > - U+E211  : Sunglasses
+> - U+E212  : Cat
+> - U+E213  : E
+> - U+E214  : W
