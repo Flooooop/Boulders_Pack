@@ -28,7 +28,8 @@
         {"type":"bitmap", "file":"custom/gui/emote/star.png", "ascent":7, "height":7, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/heart.png", "ascent":7, "height":7, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/l.png", "ascent":7, "height":7, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/emote/f.png", "ascent":7, "height":7, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/emote/f.png", "ascent":7, "height":7, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/sunglasses.png", "ascent":7, "height":7, "chars":[""]}
 
     ]
 }
