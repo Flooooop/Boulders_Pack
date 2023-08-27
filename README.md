@@ -44,3 +44,4 @@ Copy and add gui character for custom gui:
 > - U+E20E  : Heart
 > - U+E20F  : L
 > - U+E210  : F
+> - U+E211  : Sunglasses
