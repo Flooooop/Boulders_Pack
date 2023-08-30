@@ -49,3 +49,7 @@ Copy and add gui character for custom gui:
 > - U+E213  : E
 > - U+E214  : W
 > - U+E215  : Cat Angry
+>
+> #### Misc
+> - U+E400  : Cloud Left
+> - U+E401  : Cloud Right
