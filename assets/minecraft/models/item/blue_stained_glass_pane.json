@@ -1,7 +1,7 @@
 {
     "parent":"item/generated",
     "textures": {
-		"layer0": "item/blue_stained_glass_pane"
+		"layer0": "block/blue_stained_glass"
 	},
     "overrides":[
         {"predicate":{"custom_model_data":1},"model":"custom/buildings/sawmill_ready"},
