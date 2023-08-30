@@ -9,6 +9,7 @@
 		{"predicate":{"custom_model_data":3},"model":"custom/items/plants/explodrape"},
 		{"predicate":{"custom_model_data":4},"model":"custom/items/plants/vigorangium"},
         {"predicate":{"custom_model_data":5},"model":"custom/items/resources/stone"},
-        {"predicate":{"custom_model_data":6},"model":"custom/items/resources/wood"}
+        {"predicate":{"custom_model_data":6},"model":"custom/items/resources/wood"},
+        {"predicate":{"custom_model_data":7},"model":"custom/items/resources/pinecone"}
     ]
 }
