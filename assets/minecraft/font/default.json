@@ -34,7 +34,10 @@
         {"type":"bitmap", "file":"custom/gui/emote/cat.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/e.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/w.png", "ascent":7, "height":8, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/emote/cat_angry.png", "ascent":7, "height":8, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/emote/cat_angry.png", "ascent":7, "height":8, "chars":[""]},
+
+        {"type":"bitmap", "file":"custom/gui/misc/cloudleft.png", "ascent":1, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]}
 
     ]
 }
