@@ -7,4 +7,5 @@
 "facing=west,power=1,sculk_sensor_phase=inactive":{"model":"custom/blocks/gray_wood/gray_slab"},
 "facing=north,power=1,sculk_sensor_phase=inactive":{"model":"custom/blocks/plants/orange_mushroom_slab"},
 "facing=east,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/plants/sandshroom_slab"},
-"facing=south,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/tuff_slab"}}}
+"facing=south,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/tuff_slab"},
+"facing=west,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/sand_slab"}}}
