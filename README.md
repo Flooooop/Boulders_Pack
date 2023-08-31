@@ -56,6 +56,8 @@ Copy and add gui character for custom gui:
 > - U+E21A  : Explodrape
 > - U+E21B  : Note
 > - U+E21C  : Tada
+> - U+E21D  : Angry
+> - U+E21E  : Wink
 >
 > #### Misc
 > - U+E400  : Cloud Left
