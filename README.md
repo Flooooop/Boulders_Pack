@@ -62,3 +62,4 @@ Copy and add gui character for custom gui:
 > #### Misc
 > - U+E400  : Cloud Left
 > - U+E401  : Cloud Right
+> - U+E402  : Subscript Slash

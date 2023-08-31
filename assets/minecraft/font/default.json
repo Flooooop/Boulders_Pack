@@ -46,7 +46,8 @@
         {"type":"bitmap", "file":"custom/gui/emote/wink.png", "ascent":7, "height":8, "chars":[""]},
 
         {"type":"bitmap", "file":"custom/gui/misc/cloudleft.png", "ascent":1, "height":64, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/subscript_slash.png", "ascent":1, "height":8, "chars":[""]}
 
     ]
 }
