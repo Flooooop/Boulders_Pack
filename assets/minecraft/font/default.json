@@ -12,6 +12,7 @@
 
         {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":32, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/chattag/builder.png", "ascent":7, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/watcher.png", "ascent":7, "height":64, "chars":[""]},
         
         {"type":"bitmap", "file":"custom/gui/emote/nerd.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/happy.png", "ascent":7, "height":8, "chars":[""]},
