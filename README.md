@@ -55,6 +55,7 @@ Copy and add gui character for custom gui:
 > - U+E219  : Poop
 > - U+E21A  : Explodrape
 > - U+E21B  : Note
+> - U+E21C  : Tada
 >
 > #### Misc
 > - U+E400  : Cloud Left
