@@ -49,6 +49,12 @@ Copy and add gui character for custom gui:
 > - U+E213  : E
 > - U+E214  : W
 > - U+E215  : Cat Angry
+> - U+E216  : Trophy
+> - U+E217  : ZZZ
+> - U+E218  : Brain
+> - U+E219  : Poop
+> - U+E21A  : Explodrape
+> - U+E21B  : Note
 >
 > #### Misc
 > - U+E400  : Cloud Left

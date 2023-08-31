@@ -35,6 +35,12 @@
         {"type":"bitmap", "file":"custom/gui/emote/e.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/w.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/emote/cat_angry.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/trophy.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/zzz.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/brain.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/poop.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/explodrape.png", "ascent":7, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/emote/note.png", "ascent":7, "height":8, "chars":[""]},
 
         {"type":"bitmap", "file":"custom/gui/misc/cloudleft.png", "ascent":1, "height":64, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]}
