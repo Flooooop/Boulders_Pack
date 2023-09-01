@@ -51,7 +51,8 @@
         {"type":"bitmap", "file":"custom/gui/misc/subscript_slash.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/misc/loading_bar.png", "ascent":7, "height":64, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/misc/loading_bar_start.png", "ascent":5, "height":8, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_middle.png", "ascent":5, "height":8, "chars":[""]}
+        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_middle.png", "ascent":5, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/bar.png", "ascent":8, "height":16, "chars":[""]}
 
     ]
 }

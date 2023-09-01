@@ -64,7 +64,9 @@ Copy and add gui character for custom gui:
 > - U+E400  : Cloud Left
 > - U+E401  : Cloud Right
 > - U+E402  : Subscript Slash
-
+>
 > - U+E403  : Loading Bar (background)
 > - U+E404  : Loading Bar Start
 > - U+E405  : Loading Bar Middle
+>
+> - U+E406  : Head Chat Bar
