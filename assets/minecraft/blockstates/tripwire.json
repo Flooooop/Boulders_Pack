@@ -1,6 +1,15 @@
 {
   "variants": {
-    "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
+    "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/stripped_spruce_wall"
+    },
+	"attached=true,disarmed=false,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/stripped_oak_wall"
+    },
+	"attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false": {
+      "model": "custom/blocks/walls/oak_wall"
+    },
+	"attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
       "model": "custom/decorations/pot_bunch"
     },
 	"attached=true,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
