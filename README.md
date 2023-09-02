@@ -26,6 +26,8 @@ Copy and add gui character for custom gui:
 > - U+E100  : Dev
 > - U+E101  : Builder
 > - U+E102  : Watcher
+> - U+E103  : Onion
+> - U+E104  : Player
 >
 > #### Emotes
 > - Just look in the font and the image file i cant be botherd

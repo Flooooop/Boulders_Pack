@@ -9,10 +9,12 @@
 		{"type":"bitmap", "file":"custom/gui/pouch/button.png", "ascent":-79, "height":32, "chars":[""]},
 
         {"type":"bitmap", "file":"custom/gui/settings/main.png", "ascent":13, "height":256, "chars":[""]},
-
+        
         {"type":"bitmap", "file":"custom/gui/chattag/dev.png", "ascent":7, "height":32, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/chattag/builder.png", "ascent":7, "height":64, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/chattag/watcher.png", "ascent":7, "height":64, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/onion.png", "ascent":7, "height":32, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/chattag/player.png", "ascent":7, "height":64, "chars":[""]},
 
         {"type":"bitmap", "file":"custom/gui/emotes.png", "ascent":7, "height":8,
         "chars":
