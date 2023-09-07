@@ -43,8 +43,11 @@
         {"type":"bitmap", "file":"custom/gui/misc/cloudright.png", "ascent":1, "height":64, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/misc/subscript_slash.png", "ascent":7, "height":8, "chars":[""]},
         {"type":"bitmap", "file":"custom/gui/misc/loading_bar.png", "ascent":7, "height":64, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_start.png", "ascent":5, "height":8, "chars":[""]},
-        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_middle.png", "ascent":5, "height":8, "chars":[""]},
+        {"type":"bitmap", "file":"custom/gui/misc/loading_bar_bits.png","ascent":6, "height":8, "chars":[
+		
+		"\uE500\uE501\uE502\uE503\uE504\uE505\uE506\uE507",
+		"\uE508\uE509\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F"]},
+		
         {"type":"bitmap", "file":"custom/gui/misc/bar.png", "ascent":8, "height":16, "chars":[""]}
 
     ]
