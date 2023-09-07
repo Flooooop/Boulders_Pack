@@ -25,8 +25,9 @@ void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
 
     // floop what is this lol
-    modify = 0.0;
-    if (Position.z == 100) {modify==1.0;}
+    // no clue honestly (just commented it out)
+    // modify = 0.0;
+    // if (Position.z == 100) {modify==1.0;}
 
     vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
