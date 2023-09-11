@@ -3,6 +3,9 @@
 "instrument=harp,note=12,powered=false":{"model":"custom/blocks/plants/sandshroom_block"},
 "instrument=harp,note=13,powered=false":{"model":"custom/blocks/plants/orange_mushroom_block"},
 "instrument=harp,note=14,powered=false":{"model":"custom/blocks/diorite/diorite_bricks"},
-"instrument=harp,note=15,powered=false":{"model":"custom/blocks/diorite/diorite_bricks_mossy"},
+"instrument=harp,note=15,powered=false":[{"model":"custom/blocks/mud/mossy_clay"},
+{"model":"custom/blocks/mud/mossy_clay", "y":90},
+{"model":"custom/blocks/mud/mossy_clay", "y":180},
+{"model":"custom/blocks/mud/mossy_clay", "y":270}],
 "instrument=custom_head,note=1,powered=false":{"model":"custom/blocks/green_wood/green_planks"},
 "instrument=custom_head,note=2,powered=false":{"model":"custom/blocks/gray_wood/gray_planks"}}}

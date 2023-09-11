@@ -8,4 +8,8 @@
 "facing=north,power=1,sculk_sensor_phase=inactive":{"model":"custom/blocks/plants/orange_mushroom_slab"},
 "facing=east,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/plants/sandshroom_slab"},
 "facing=south,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/tuff_slab"},
-"facing=west,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/sand_slab"}}}
+"facing=west,power=2,sculk_sensor_phase=inactive":{"model":"custom/blocks/slabs/sand_slab"},
+"facing=north,power=2,sculk_sensor_phase=inactive":[{"model":"custom/decorations/clay_bits"},
+{"model":"custom/decorations/clay_bits", "y":90},
+{"model":"custom/decorations/clay_bits", "y":180},
+{"model":"custom/decorations/clay_bits", "y":270}]}}

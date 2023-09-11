@@ -20,6 +20,9 @@
     },
 	"attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=false": {
       "model": "custom/decorations/pouches/pouch_shineshroom"
+    },
+	"attached=true,disarmed=false,east=true,north=false,powered=true,south=false,west=false": {
+      "model": "custom/decorations/plants/cattails"
     }
   }
 }
