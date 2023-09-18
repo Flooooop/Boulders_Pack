@@ -12,4 +12,5 @@
 "facing=north,power=2,sculk_sensor_phase=inactive":[{"model":"custom/decorations/clay_bits"},
 {"model":"custom/decorations/clay_bits", "y":90},
 {"model":"custom/decorations/clay_bits", "y":180},
-{"model":"custom/decorations/clay_bits", "y":270}]}}
+{"model":"custom/decorations/clay_bits", "y":270}],
+"facing=east,power=3,sculk_sensor_phase=inactive":{"model":"custom/decorations/plants/cattails"}}}
